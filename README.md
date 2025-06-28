@@ -6,6 +6,9 @@ A comprehensive Flutter application designed to bridge the gap between students 
 
 NextGenConnect is a modern career development platform that helps students navigate the job market and achieve their career aspirations. The app provides personalized career guidance, resume writing assistance, interview preparation, and connects students with industry mentors.
 
+## Demo
+https://github.com/user-attachments/assets/819d8711-5873-44e5-bfed-5aa0a3f0b736
+
 ## ✨ Features
 
 ### For Students
